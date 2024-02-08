@@ -2,7 +2,7 @@
 
 <div><h1>🌱 I'm currently learning :</h1></div>
 BACKEND
-<div align="center" > 
+<div align="right" > 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30" height="30"/>
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="30" height="30" />-->
