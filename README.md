@@ -1,7 +1,7 @@
 # 👋👋 Hello! Welcome to my Github profile.
 ## My name is Rodrigo!
 
-🌱 Atualmente estou aprendendo :
+🌱 I'm currently learning :
 <div>
    BACKEND
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> 
@@ -46,7 +46,7 @@
 
 <br>
 <div>
-📫 Entre em contato comigo:
+📫 CONTACT ME:
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" width="85" height=""/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height=""/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="65" height=""/>
@@ -54,9 +54,8 @@
 
 <br>
 
-## Idiomas
+## LANGUAGES
 
-<br>
 Italiano Básico
 <br>
 Ingles Básico
