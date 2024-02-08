@@ -1,7 +1,7 @@
 # 👋👋 Hello! Welcome to my Github profile.
 ## My name is Rodrigo!
 
-🌱 I'm currently learning :
+<div>🌱 I'm currently learning :</div>
 <div>
    BACKEND
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> 
