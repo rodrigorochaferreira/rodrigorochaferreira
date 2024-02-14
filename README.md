@@ -56,7 +56,6 @@
 
 ## LANGUAGES
 
-Italiano Básico
 <br>
 Ingles Básico
 <br>
